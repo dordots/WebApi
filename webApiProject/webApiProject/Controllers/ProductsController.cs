@@ -11,6 +11,7 @@ namespace webApiProject.Controllers
     public class ProductsController : ApiController
     {
         Product[] products = new Product[] {
+
             new Product {Id = 1,Name = "a",Category = "i", Price = 1 },
             new Product {Id = 2,Name = "b",Category = "ii", Price = 2},
             new Product {Id = 3,Name = "c",Category = "iii", Price = 3},
