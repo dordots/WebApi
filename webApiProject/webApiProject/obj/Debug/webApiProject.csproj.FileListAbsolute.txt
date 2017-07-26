@@ -54,3 +54,10 @@ C:\Users\Administrator\Source\Repos\WebApiProject\WebApi\webApiProject\webApiPro
 C:\Users\Administrator\Source\Repos\WebApiProject\WebApi\webApiProject\webApiProject\obj\Debug\webApiProject.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Source\Repos\WebApiProject\WebApi\webApiProject\webApiProject\obj\Debug\webApiProject.dll
 C:\Users\Administrator\Source\Repos\WebApiProject\WebApi\webApiProject\webApiProject\obj\Debug\webApiProject.pdb
+C:\Users\Administrator\Source\Repos\WebApiProject\WebApi\webApiProject\webApiProject\bin\MongoDB.Bson.dll
+C:\Users\Administrator\Source\Repos\WebApiProject\WebApi\webApiProject\webApiProject\bin\MongoDB.Driver.Core.dll
+C:\Users\Administrator\Source\Repos\WebApiProject\WebApi\webApiProject\webApiProject\bin\MongoDB.Driver.dll
+C:\Users\Administrator\Source\Repos\WebApiProject\WebApi\webApiProject\webApiProject\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Source\Repos\WebApiProject\WebApi\webApiProject\webApiProject\bin\MongoDB.Bson.xml
+C:\Users\Administrator\Source\Repos\WebApiProject\WebApi\webApiProject\webApiProject\bin\MongoDB.Driver.xml
+C:\Users\Administrator\Source\Repos\WebApiProject\WebApi\webApiProject\webApiProject\bin\MongoDB.Driver.Core.xml
